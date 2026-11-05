@@ -183,13 +183,13 @@ Source for my professional portfolio covering cloud, AI, cybersecurity, and cust
 
 ### Oracle
 
-<!-- Replace each LinkedIn link below with its Oracle CertView link (click "Show credential" on LinkedIn and copy the URL). -->
+<!-- TODO: replace the OCI 2025 Foundations Associate LinkedIn link with its Oracle CertView link. -->
 
-- **[Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Nov 2025
-- **[Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
+- **[Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=DAA8AB4341C3C62664BDB4C79F033CD4241A796B6A5C9B7AC3AAF59C05B62CE3)** | Oracle | Nov 2025
+- **[Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=A92DB1309277A6CB3A569973B58D6763680EF2F7A49AF1329D0D5D82A2709184)** | Oracle | Oct 2025
 - **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
-- **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
-- **[Oracle Data Platform 2025 Certified Foundations Associate](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
+- **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=E16C6CA0F878C2078DF9FB9A2C3360D81180BF8D55ED63F11818372FEF5C9500)** | Oracle | Oct 2025
+- **[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=71698912A202E131DFCF4D02F3B947B6D76A5E7ABF8C7F07181D6B1777BA4C98)** | Oracle | Oct 2025
 
 ### Google Cybersecurity
 
