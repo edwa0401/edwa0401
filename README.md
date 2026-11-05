@@ -1,0 +1,234 @@
+<img src="./ryan-edwards-github-header.png" alt="Ryan Edwards - Enterprise Cloud & AI Architect | Cloud, AI, Cybersecurity, Customer Success" width="100%">
+
+<h2 align="center">Enterprise Cloud & AI Architect | Cybersecurity | Customer Success</h2>
+
+<p align="center">
+Technology leader with 10+ years across cloud architecture, solution engineering, technical account management, customer success, and product management at Oracle and Tableau/Salesforce.
+</p>
+
+<p align="center">
+I help organizations turn complex technical requirements into secure, scalable cloud and AI solutions, then make sure customers actually adopt them and see measurable value. Today I run AGS, my independent practice for multicloud and AI architecture, while building hands-on AWS, Azure, and cybersecurity projects.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ryanhedwards/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:ryan.h.edwards@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;
+<a href="https://github.com/edwa0401"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+<a href="https://sites.google.com/view/ryanhedwards/home">Portfolio</a> •
+<a href="https://www.linkedin.com/in/ryanhedwards/">LinkedIn</a> •
+<a href="mailto:ryan.h.edwards@gmail.com">Email</a>
+</p>
+
+---
+
+## Impact at a Glance
+
+<table align="center">
+<tr>
+<td align="center"><h3>$20M+</h3>Enterprise portfolio managed</td>
+<td align="center"><h3>200+</h3>Cloud customer accounts led</td>
+<td align="center"><h3>$10M+</h3>ARR pipeline supported</td>
+<td align="center"><h3>100%</h3>Customer retention</td>
+</tr>
+<tr>
+<td align="center"><h3>4.8 / 5</h3>Customer satisfaction</td>
+<td align="center"><h3>22%</h3>Higher win rates on referenced deals</td>
+<td align="center"><h3>$1.5M+</h3>Scholarships awarded to mentored students</td>
+<td align="center"><h3>$500K</h3>Nonprofit funding driven</td>
+</tr>
+</table>
+
+---
+
+## About Me
+
+- Bachelor of Chemical Engineering, University of Oklahoma
+- Graduate coursework (15 credit hours) toward a Master of Engineering, Cornell University, before being recruited into industry
+- Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional and Generative AI Professional
+- Google Cybersecurity Professional Certificate
+- Trusted advisor to Fortune 100 and large-enterprise customers in retail, healthcare, and the public sector
+- STEM mentor helping high school and college students with career planning and scholarships
+- Currently preparing for Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+I started in chemical engineering and research, then moved into enterprise cloud at Oracle, where I spent nearly a decade across solution engineering, customer success leadership, product management, and cloud architecture. I enjoy the space where architecture meets the customer: running discovery, designing the solution, guiding the migration, and proving the business outcome.
+
+---
+
+## Core Technologies
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,linux" alt="AWS, Azure, Google Cloud, Terraform, Linux" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+</p>
+
+**Oracle Cloud Infrastructure • AWS • Microsoft Azure • Google Cloud • Hybrid & Multicloud Architecture • IaaS / PaaS / SaaS • Disaster Recovery • Terraform**
+
+### Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Suricata-EF7D00?style=for-the-badge" alt="Suricata" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
+<img src="https://img.shields.io/badge/tcpdump-2F4F4F?style=for-the-badge" alt="tcpdump" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+</p>
+
+**NIST Cybersecurity Framework • SIEM • IDS/IPS • Vulnerability Assessment • Threat Analysis • Log Analysis • Incident Response • SOC Fundamentals**
+
+### Data, AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,bash" alt="Python, MySQL, Bash" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</p>
+
+**Python • SQL (BigQuery, MySQL) • Generative AI • Databricks • Tableau • Data Analysis & Customer Reporting**
+
+### Customer Success & Collaboration
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,git" alt="GitHub, Git" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+</p>
+
+**Customer Lifecycle Management • Onboarding & Adoption • Executive Business Reviews / QBRs • Renewals & Expansion • Risk Mitigation • Salesforce CRM • Agile Delivery**
+
+---
+
+## Experience
+
+| Role | Company | Years |
+|---|---|---|
+| **Principal, Enterprise Cloud & AI Architecture** | AGS (Independent, Remote) | 2023 to Present |
+| **Enterprise Cloud Architect** (Customer Success Focused) | Oracle | 2022 to 2023 |
+| **Technical Account Manager** | Tableau / Salesforce | 2020 to 2021 |
+| **OCI Product Manager** | Oracle | 2020 |
+| **Customer Success Team Lead** | Oracle | 2015 to 2020 |
+| **Solution Engineering** | Oracle | 2014 to 2015 |
+
+**Highlights**
+
+- Guided enterprise retail and healthcare clients through cloud architecture planning, contributing to a **$10M+ ARR pipeline** at Oracle.
+- Led delivery of a reusable **COVID-19 dashboard framework for the City of Dallas** at Tableau, built to scale statewide.
+- Drove a **63% improvement on a Gartner scorecard** for OCI programs and built a global reference program used by **150+ sales reps**.
+- Led adoption and enablement for **200+ customer accounts** and managed a **$20M+ enterprise portfolio**.
+- Led workshops and automation audits for SMBs and nonprofits, improving operational productivity by **up to 40%**.
+
+---
+
+## Selected Projects
+
+### [Incident Handler's Journal](https://docs.google.com/document/d/18eO6JIdHI22GwD0ZkqaHr7_n3edjr3Ry0yFmTq9yJu0/edit?usp=sharing)
+
+Documented simulated security incidents from detection through response, recording the who, what, when, where, and why of each event along with the tools used and lessons learned.
+
+**Focus:** Incident Response • NIST CSF • SIEM • Documentation
+
+---
+
+### [Vulnerable System Analysis](https://docs.google.com/document/d/1ywaq8ILNRbZN2J2HpeqnikoKSlVdmjNkFoWKMCMh43w/edit?usp=sharing)
+
+Assessed a vulnerable system to identify threat sources, likelihood, and severity, then recommended controls to reduce organizational risk.
+
+**Focus:** Vulnerability Assessment • Risk Analysis • Security Controls
+
+---
+
+### [SQL Security Queries](https://docs.google.com/document/d/1V73V3t3bCMC5TUhJNP2OoRuKW3CrNE4cdQnv-Wuw7fA/edit?usp=sharing)
+
+Used SQL filters to investigate login attempts and employee records, isolating suspicious activity and the machines that needed security updates.
+
+**Focus:** SQL • Log Analysis • Threat Investigation
+
+---
+
+### [TryHackMe Journal](https://docs.google.com/document/d/1hbEsqCeqcNhM06NmgXc1t1rGAZv_sXx_a5AJniPugCY/edit?usp=sharing)
+
+Hands-on lab notes from TryHackMe rooms covering Linux, networking, and offensive and defensive security fundamentals.
+
+**Focus:** Hands-On Labs • Linux • Networking • Security Fundamentals
+
+---
+
+### [Ryan Edwards Portfolio](https://github.com/edwa0401/ryan-edwards-portfolio)
+
+Source for my professional portfolio covering cloud, AI, cybersecurity, and customer success work.
+
+**Focus:** Portfolio • Web • Personal Branding
+
+---
+
+## Certifications
+
+### Oracle
+
+<!-- Replace each LinkedIn link below with its Oracle CertView link (click "Show credential" on LinkedIn and copy the URL). -->
+
+- **[Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Nov 2025
+- **[Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
+- **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
+- **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
+- **[Oracle Data Platform 2025 Certified Foundations Associate](https://www.linkedin.com/in/ryanhedwards/details/certifications/)** | Oracle | Oct 2025
+
+### Google Cybersecurity
+
+- **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/a0bc2c1e-6ec4-4c0f-b4e6-666f62a4a8cc/public_url)** | Google via Coursera (Merit America) | Sep 2025
+  - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/records/FUGJ9B6N8QQ6) | Sep 2025
+  - [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/records/KPUPKPVNQXJ7) | Sep 2025
+  - [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/records/FCH6MB0YHZIJ) | Aug 2025
+  - [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/records/NNRN502KNDKL) | Jul 2025
+
+### Project Management & AI
+
+- **Google Project Management Certificate** | Google
+- **Agile Project Management** | APMI
+- **Databricks Generative AI** | Databricks
+
+### In Progress
+
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)** | Microsoft
+
+---
+
+## Currently Building
+
+```text
+AWS and Azure hands-on cloud projects
+Azure Administration (AZ-104)
+Generative AI solutions on OCI and Databricks
+Security monitoring and log analysis labs
+Cloud architecture for small businesses and nonprofits
+```
+
+---
+
+<p align="center">
+<strong>Cloud • AI • Cybersecurity • Customer Success • STEM Mentorship</strong>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ryanhedwards/">LinkedIn</a> •
+<a href="https://sites.google.com/view/ryanhedwards/home">Portfolio</a> •
+<a href="mailto:ryan.h.edwards@gmail.com">Email</a>
+</p>
