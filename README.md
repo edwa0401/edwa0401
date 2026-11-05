@@ -30,12 +30,10 @@ I help organizations turn complex technical requirements into secure, scalable c
 <tr>
 <td align="center"><h3>$20M+</h3>Enterprise portfolio managed</td>
 <td align="center"><h3>200+</h3>Cloud customer accounts led</td>
-<td align="center"><h3>$10M+</h3>ARR pipeline supported</td>
 <td align="center"><h3>100%</h3>Customer retention</td>
 </tr>
 <tr>
 <td align="center"><h3>4.8 / 5</h3>Customer satisfaction</td>
-<td align="center"><h3>22%</h3>Higher win rates on referenced deals</td>
 <td align="center"><h3>$1.5M+</h3>Scholarships awarded to mentored students</td>
 <td align="center"><h3>$500K</h3>Nonprofit funding driven</td>
 </tr>
@@ -46,14 +44,13 @@ I help organizations turn complex technical requirements into secure, scalable c
 ## About Me
 
 - Bachelor of Chemical Engineering, University of Oklahoma
-- Graduate coursework (15 credit hours) toward a Master of Engineering, Cornell University, before being recruited into industry
+- Master of Engineering, Cornell University, Graduate coursework (15 credit hours)
 - Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional and Generative AI Professional
 - Google Cybersecurity Professional Certificate
 - Trusted advisor to Fortune 100 and large-enterprise customers in retail, healthcare, and the public sector
 - STEM mentor helping high school and college students with career planning and scholarships
-- Currently preparing for Microsoft Certified: Azure Administrator Associate (AZ-104)
 
-I started in chemical engineering and research, then moved into enterprise cloud at Oracle, where I spent nearly a decade across solution engineering, customer success leadership, product management, and cloud architecture. I enjoy the space where architecture meets the customer: running discovery, designing the solution, guiding the migration, and proving the business outcome.
+Results-driven enterprise technology leader with 10+ years of experience across cloud architecture, solution engineering, technical account management, customer success, and product management. Running discovery, designing the solution, guiding the migration, and proving the business outcome.
 
 ---
 
